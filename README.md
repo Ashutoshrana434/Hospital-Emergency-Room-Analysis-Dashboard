@@ -1,6 +1,3 @@
-Of course\! Here is a README file for your Hospital Emergency Room Analysis project.
-
------
 
 # Hospital Emergency Room Analysis Dashboard
 
