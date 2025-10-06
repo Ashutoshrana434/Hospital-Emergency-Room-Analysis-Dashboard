@@ -1,7 +1,4 @@
 
-# Hospital Emergency Room Analysis Dashboard
-
-
 ## 🏥 Project Overview
 
 This project involves the creation of a comprehensive Power BI dashboard to analyze the performance of a hospital's Emergency Room (ER). The primary goal is to provide actionable insights into patient management, operational efficiency, and service quality. By tracking key performance indicators (KPIs), the dashboard enables stakeholders to make data-driven decisions to optimize resource allocation, reduce wait times, and enhance patient satisfaction.
