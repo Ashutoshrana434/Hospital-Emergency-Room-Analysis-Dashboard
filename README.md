@@ -1,9 +1,22 @@
+Of course\! Here is the updated README file, now with a dedicated section for your dashboard link.
+
+Just replace `your-dashboard-link-here` with the actual public URL for your Power BI dashboard.
+
+-----
+
+# Hospital Emergency Room Analysis Dashboard
 
 ## 🏥 Project Overview
 
 This project involves the creation of a comprehensive Power BI dashboard to analyze the performance of a hospital's Emergency Room (ER). The primary goal is to provide actionable insights into patient management, operational efficiency, and service quality. By tracking key performance indicators (KPIs), the dashboard enables stakeholders to make data-driven decisions to optimize resource allocation, reduce wait times, and enhance patient satisfaction.
 
-## <img width="1399" height="851" alt="image" src="https://github.com/user-attachments/assets/2a1f00e8-cc26-4b41-8ca2-910c8bb108d2" />
+-----
+
+## 🚀 Live Dashboard
+
+You can view and interact with the live dashboard here:
+
+**[Link to the Live Dashboard](https://www.google.com/search?q=https://app.powerbi.com/view?r=eyJrIjoiNDY2M2FkMGQtMmNiNS00OGVhLTk1OGItMDhhNGRmNDk3ODAxIiwidCI6ImFkODQwZTUyLTUzZDEtNDNiZS1hZmY1LWRlMDgzNDE0NjZkMSJ9)**
 
 -----
 
@@ -19,12 +32,12 @@ The core objective was to develop a dynamic dashboard to monitor and analyze ER 
 
 -----
 
-## 📊 Data Source
+## 💾 Dataset
 
-The analysis is based on a single CSV file:
+The analysis is based on a single CSV file containing anonymized patient records from the ER.
 
   * **File:** `Hospital ER_Data.csv`
-  * **Description:** This dataset contains anonymized patient records from the ER, including demographic information, admission details, wait times, satisfaction scores, and referral data. A detailed explanation of each field is available in the `Data Terminology.pdf` file.
+  * **Description:** This dataset contains patient records from the ER, including demographic information, admission details, wait times, satisfaction scores, and referral data. A detailed explanation of each field is available in the **`Data Terminology.pdf`** file.
 
 -----
 
@@ -52,7 +65,7 @@ The project followed a structured approach from data to insights:
 
 -----
 
-## Key Insights
+## 📈 Key Insights
 
 The dashboard revealed several important patterns and trends:
 
@@ -63,3 +76,10 @@ The dashboard revealed several important patterns and trends:
   * **Patient Satisfaction:** The average patient satisfaction score was moderate, suggesting areas for improvement in patient experience, potentially linked to wait times.
 
 -----
+
+## 🚀 How to Use
+
+1.  Make sure you have **Power BI Desktop** installed.
+2.  Open the `Hospital Emaergency room Analysis.pbit` file.
+3.  The report will load with the complete data model, calculations, and dashboard layout.
+4.  Interact with the slicers and filters on each page to explore the data for different months, days, or patient demographics.
