@@ -12,6 +12,7 @@ You can view and interact with the live dashboard here:
 
 **[Link to the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY2M2FkMGQtMmNiNS00OGVhLTk1OGItMDhhNGRmNDk3ODAxIiwidCI6ImFkODQwZTUyLTUzZDEtNDNiZS1hZmY1LWRlMDgzNDE0NjZkMSJ9)**
 
+## <img width="1399" height="851" alt="DASHBoard Preview" src="https://github.com/user-attachments/assets/a818bb64-56a6-4568-9993-97053887fc75" />
 -----
 
 ## 🎯 Business Requirements
