@@ -1,9 +1,3 @@
-Of course\! Here is the updated README file, now with a dedicated section for your dashboard link.
-
-Just replace `your-dashboard-link-here` with the actual public URL for your Power BI dashboard.
-
------
-
 # Hospital Emergency Room Analysis Dashboard
 
 ## 🏥 Project Overview
@@ -16,7 +10,7 @@ This project involves the creation of a comprehensive Power BI dashboard to anal
 
 You can view and interact with the live dashboard here:
 
-**[Link to the Live Dashboard](https://www.google.com/search?q=https://app.powerbi.com/view?r=eyJrIjoiNDY2M2FkMGQtMmNiNS00OGVhLTk1OGItMDhhNGRmNDk3ODAxIiwidCI6ImFkODQwZTUyLTUzZDEtNDNiZS1hZmY1LWRlMDgzNDE0NjZkMSJ9)**
+**[Link to the Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNDY2M2FkMGQtMmNiNS00OGVhLTk1OGItMDhhNGRmNDk3ODAxIiwidCI6ImFkODQwZTUyLTUzZDEtNDNiZS1hZmY1LWRlMDgzNDE0NjZkMSJ9)**
 
 -----
 
@@ -75,11 +69,3 @@ The dashboard revealed several important patterns and trends:
   * **Admission Patterns:** The admission rate was nearly **50%**, with almost half of the ER patients being admitted to the hospital for further care.
   * **Patient Satisfaction:** The average patient satisfaction score was moderate, suggesting areas for improvement in patient experience, potentially linked to wait times.
 
------
-
-## 🚀 How to Use
-
-1.  Make sure you have **Power BI Desktop** installed.
-2.  Open the `Hospital Emaergency room Analysis.pbit` file.
-3.  The report will load with the complete data model, calculations, and dashboard layout.
-4.  Interact with the slicers and filters on each page to explore the data for different months, days, or patient demographics.
